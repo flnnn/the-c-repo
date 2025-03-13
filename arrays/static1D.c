@@ -7,6 +7,7 @@ int main(void) {
     int arr[5];
     fillArray(arr, 5);
     printArray(arr, 5);
+    return 0;
 }
 
 void fillArray(int a[], int length) {
